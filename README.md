@@ -10,6 +10,6 @@ Algoritmos trabalhados na disciplina de estrutura de dados
 ## Algoritmos implementados:
 ### Ordenação:
 
-  - [ ] Insertion sort
+  - [x] Insertion sort
   - [ ] Merge sort
   - [ ] ...
