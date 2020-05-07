@@ -8,7 +8,7 @@ using namespace std;
 
 /***
  * Função: insertion Sort 
- * Descrição: Ordena um vetor em ordem crescente
+ * Descrição: Ordena um vetor
  * Parâmetros: vetor - Um vetor de inteiros a ser ordenado
  *             p - inicio do vetor
  *             r - final do vetor
