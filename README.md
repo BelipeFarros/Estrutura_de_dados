@@ -14,4 +14,4 @@ Algoritmos trabalhados na disciplina de estrutura de dados
   - [x] Insertion sort
   - [x] Merge sort
   - [ ] Healp sort
-  - [ ] Quicl sort
+  - [ ] Quick sort
