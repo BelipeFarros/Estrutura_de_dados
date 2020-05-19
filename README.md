@@ -9,7 +9,9 @@ Algoritmos trabalhados na disciplina de estrutura de dados
 
 ## Algoritmos implementados:
 ### Ordenação:
-
+    
+  - [ ] Bubble sort
   - [x] Insertion sort
-  - [ ] Merge sort
-  - [ ] ...
+  - [x] Merge sort
+  - [ ] Healp sort
+  - [ ] Quick sort
