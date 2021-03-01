@@ -17,7 +17,7 @@ void imprimeVetor(int* vetor, int tam);
 /**
  * Função: troca
  * Descrição: Troca os dois valores recebidos como parâmetro
- * Parâmetros: a e b - falores a serem trocados
+ * Parâmetros: a e b - valores a serem trocados
  */
 void troca (int &a, int &b) {int c = a; a = b; b = c;};
 
