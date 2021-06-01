@@ -47,7 +47,7 @@ int main(){
     cout << "Vetor de entrada:" << fim;
     imprimeVetor(vetor, N);
     cout << fim;
-    cout << "Vetor ordenado pelo insertion sort" << fim;
+    cout << "Vetor ordenado pelo merge sort" << fim;
     mergeSort(vetor, 0, N-1);
     imprimeVetor(vetor, N);
 
